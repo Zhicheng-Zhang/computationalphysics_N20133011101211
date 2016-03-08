@@ -5,11 +5,16 @@
 
 
 #                                   C语言向markdown问好
-## #include <stdio.h>
-   main()
-   {
-    ptintf("Hellow,markdown!\n");
-   }
+## #include <stdio.h>   
+
+   main()   
+   
+   {   
+   
+    ptintf("Hellow,markdown!\n");   
+    
+   }   
+   
 
 
 
