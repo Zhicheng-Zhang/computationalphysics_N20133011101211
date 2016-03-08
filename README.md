@@ -4,8 +4,12 @@
 ![markdown](http://www.tianmaowc.com/img/aHR0cDovL3d3dy51cGFudG9vbC5jb20vdXBsb2Fkcy9hbGxpbWcvMTQwMzIzLzFfMTQwMzIzMTQyMDExXzEucG5n.jpg)
 
 
-#                                   C语言程序设计
-## 找出两个数中较大的数
+#                                   C语言向markdown问好
+## #include <stdio.h>
+   main()
+   {
+    ptintf("Hellow,markdown!\n");
+   }
 
 
 
