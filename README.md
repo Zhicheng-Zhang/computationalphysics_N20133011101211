@@ -5,8 +5,7 @@
 
 
 #                                   C语言向markdown问好
-## */*在计算机屏幕上输出"Hellow,markdown!"*/*
-   ##include <stdio.h>   
+## 在计算机屏幕上输出"Hellow,markdown!"
    main()   
    {   
     ptintf("Hellow,markdown!\n");   
