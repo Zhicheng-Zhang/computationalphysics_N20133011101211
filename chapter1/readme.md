@@ -1,4 +1,4 @@
-本次作业我选了第３题和第５题
+本次作业我选了第３题,另外又写了一下第５题的程序
 
 #第３题　Falling with Friction#
 ##摘要##
@@ -30,6 +30,11 @@
 
 ##致谢
 >- 感谢蔡浩老师上课时讲的解微分方程的代码，感谢刘文焘同学的报告版式，为我提供了很好的参考。
+
+第５题　　Radioactive Nucleus
+=================================
+>-　![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/ABdecay.py)
+>-  ![运行结果](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/figure_1.2.png)
 
 
 
