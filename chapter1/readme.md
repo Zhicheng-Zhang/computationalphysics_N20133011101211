@@ -21,8 +21,8 @@
 ##程序代码
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/frictionalfall.py)
 ##程序运行结果
->- ![dt=0.5得到的v-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/figure_1.png)
->- ![dt=0.1得到的v-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/figure_1.1.png)
+>- dt=0.5                                    ![dt=0.5得到的v-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/figure_1.png)
+>- dt=0.1                                    ![dt=0.1得到的v-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/figure_1.1.png)
 
 ##结果分析
 >- 可以看到曲线显示，随着时间增大，物体的速度逐渐增大，但增加得越来越慢，最后趋于一定值。
