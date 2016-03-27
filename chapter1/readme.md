@@ -33,7 +33,7 @@
 
 第５题　　Radioactive Nucleus
 =================================
->- ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/ABdecay.py)
+>- ![代码](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/ABdecay.py)
 >- 运行结果　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ![运行结果](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1/figure_1.2.png)
 
