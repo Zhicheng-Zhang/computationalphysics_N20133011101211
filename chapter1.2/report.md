@@ -20,4 +20,8 @@
    用matplotlib绘图，并给出图例、坐标单位、注解等，并标出了有阻力情形下小球数值解达到的最大高度和
    无阻力情形下解析解达到的最大高度。
 ## 
-![程序代码]()
+![程序代码](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/projectile.py)
+
+##程序运行结果
+>- 无阻力情形下x-t曲线，数值解与解析解对比
+!(https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/freeprojectile.png)
