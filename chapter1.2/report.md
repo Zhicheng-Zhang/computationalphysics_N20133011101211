@@ -24,4 +24,4 @@
 
 ##程序运行结果
 >- 无阻力情形下x-t曲线，数值解与解析解对比
-!(https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/freeprojectile.png)
+![x-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/freeprojectile.png)
