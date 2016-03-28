@@ -19,9 +19,26 @@
 ##绘图
    用matplotlib绘图，并给出图例、坐标单位、注解等，并标出了有阻力情形下小球数值解达到的最大高度和
    无阻力情形下解析解达到的最大高度。
-## 
-![程序代码](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/projectile.py)
+##程序源码
+![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/projectile.py)
 
 ##程序运行结果
->- 无阻力情形下x-t曲线，数值解与解析解对比
+>- 图１.　无阻力情形下x-t曲线，数值解与解析解对比
 ![x-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/freeprojectile.png)
+>- 图２.  有阻力情形下x-t曲线，与无阻力情形对比
+![x-t曲线](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter1.2/frictionalprojectile.png)
+
+##结果分析
+>- 不考虑空气阻力的情形下，从图１中可以看出数值解与解析解均呈现抛物线形状，这符合我们对二阶常微分方程的解的预想。在dt较大时有一定差距，且数值解略大于解析解。
+>- 考虑空气阻力的情形下，从图２中可以看出x-t曲线已经偏离抛物线形状，而且到达的最大高度明显地比无阻力情形低，也符合预期。
+
+
+
+
+
+
+
+
+
+
+
