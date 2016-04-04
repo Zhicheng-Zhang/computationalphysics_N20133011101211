@@ -10,6 +10,8 @@ Welcome to My Repository!
 >**Homework of Chapter1.2**
 >- ![chapter1第二次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter1.2)
 
+>**Homework of Chapter2**
+>-
 
 
 
