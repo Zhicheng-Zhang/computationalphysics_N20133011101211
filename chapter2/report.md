@@ -18,4 +18,9 @@ y.append(0)
 ##程序源码
 > 无阻力情形下射程-出射角关系
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon-theta-F.py)
-
+> 渐变阻力下射程-出射角关系
+![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_theta_ARV.py)
+> 无阻力情形下定点打击最小速度
+![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aiming_F.py)
+> 渐变阻力下定点打击最小速度
+![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aimming_ARV.py)
