@@ -16,6 +16,6 @@ y.append(0)
 用未作处理前最后两点连成的直线与x轴相交，求得交点，作为最后落点。
 2、为了找出使射程最大的出射角，利用嵌套循环，将每个出射角与射程分别放到两个列表中，再利用matplotlib绘出射程-出射角关系曲线，可以很直观地看出最大射程对应的出射角。
 ##程序源码
->-无阻力情形下射程-出射角关系
+> 无阻力情形下射程-出射角关系
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon-theta-F.py)
 
