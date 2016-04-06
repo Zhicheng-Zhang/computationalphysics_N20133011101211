@@ -23,6 +23,13 @@ for theta in range(1,int(50*math.pi)):
         t.append(dt*i[-1])        
      
     theta_list.append(0.01*theta);x_list.append(x[-1])
-    print theta,t[-1],x[-1],v_x[-1],y[-1],v_y[-1]
 plt.plot(theta_list,x_list,'ro')
+plt.xlabel("theta/(rad)");plt.ylabel('shoot range/(m)')
+plt.title('Theta-dependence of the shoot range of a cannon shell')
+
+plt.plot([0.79,0.79],[0,490.7],color ='blue', linewidth=2.5, linestyle="--")
+plt.annotate('largest range 490.7m',xy=(0.79,490.7),xytext=(0.9,450),
+arrowprops=dict(arrowstyle="->"))
+plt.annotate(' 0.79rad(45degrees)',xy=(0.79,0),xytext=(0.90,50),
+arrowprops=dict(facecolor='blue',shrink=0.03))
 plt.show()
