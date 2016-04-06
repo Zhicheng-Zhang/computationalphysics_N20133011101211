@@ -13,20 +13,32 @@
 a=-y[-1]/y[-2]
 x.append((x[-1]+a*x[-2])/(1+a))
 y.append(0)
-用未作处理前最后两点连成的直线与x轴相交，求得交点，作为最后落点。
+####用未作处理前最后两点连成的直线与x轴相交，求得交点，作为最后落点。
 
 ####为了找出使射程最大的出射角，利用嵌套循环，将每个出射角与射程分别放到两个列表中，再利用matplotlib绘出射程-出射角关系曲线，可以很直观地看出最大射程对应的出射角。
 ##程序源码
-####无阻力情形下射程-出射角关系
+###无阻力情形下射程-出射角关系
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon-theta-F.py)
 
-####渐变阻力下射程-出射角关系
+###渐变阻力下射程-出射角关系
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_theta_ARV.py)
 
-####无阻力情形下定点打击最小速度
+###无阻力情形下定点打击最小速度
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aiming_F.py)
 
-####渐变阻力下定点打击最小速度
+###渐变阻力下定点打击最小速度
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aimming_ARV.py)
 ##运行结果
+###无阻力情形下不同发射角对应轨迹
+![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_theta_F_discrete.png)
+###无阻力情形下射程-出射角关系曲线
+![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_theta_F.png)
+###渐变阻力下射程-出射角关系曲线
+![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/figure_theta_ARV.png)
+###无阻力下定点打击最小速度
+![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aiming_F.png)
+###渐变阻力下定点打击最小速度
+![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon-aiming-ARV.png)
+
+###结果分析
 
