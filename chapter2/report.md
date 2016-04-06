@@ -9,18 +9,24 @@
 在此基础之上，利用双重循环，扫描0-90度范围内的发射角，可获得给定发射速度下使射程最大的发射角。
 为了实现在一定精度范围内打击给定目标，先固定发射角，然后扫描合适的速度范围，找到满足精度要求的最小发射速度。
 ###具体问题及解决方案
-1、为了使炮弹最终落点纵坐标为0，亦即落到地面上，而不是根据循环条件使得最终落点稍小于0，进行如下处理
+####为了使炮弹最终落点纵坐标为0，亦即落到地面上，而不是根据循环条件使得最终落点稍小于0，进行如下处理
 a=-y[-1]/y[-2]
 x.append((x[-1]+a*x[-2])/(1+a))
 y.append(0)
 用未作处理前最后两点连成的直线与x轴相交，求得交点，作为最后落点。
-2、为了找出使射程最大的出射角，利用嵌套循环，将每个出射角与射程分别放到两个列表中，再利用matplotlib绘出射程-出射角关系曲线，可以很直观地看出最大射程对应的出射角。
+
+####为了找出使射程最大的出射角，利用嵌套循环，将每个出射角与射程分别放到两个列表中，再利用matplotlib绘出射程-出射角关系曲线，可以很直观地看出最大射程对应的出射角。
 ##程序源码
-> 无阻力情形下射程-出射角关系
+####无阻力情形下射程-出射角关系
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon-theta-F.py)
-> 渐变阻力下射程-出射角关系
+
+####渐变阻力下射程-出射角关系
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_theta_ARV.py)
-> 无阻力情形下定点打击最小速度
+
+####无阻力情形下定点打击最小速度
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aiming_F.py)
-> 渐变阻力下定点打击最小速度
+
+####渐变阻力下定点打击最小速度
 ![代码链接](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2/cannon_aimming_ARV.py)
+##运行结果
+
