@@ -28,6 +28,7 @@
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_backspin_1000.png)
 >- y-x Relation with 2000 rmp Spin
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_backspin_2000.png)
+   
 ###Screenshots of the 3-D Display of A Spining Baseball
 >- Front View
   ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_frontview.png)
