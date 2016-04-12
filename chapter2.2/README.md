@@ -37,7 +37,7 @@
   
 ## Analysis
 >- We can find that with the increase of angular speed the shoot range increases correspondingly.This is because the backspin provides the baseball with upward force,so the baseball can travel for a longer period.
->- If the angular speed is upward,things are different.As is shown in the screenshots of the display,the baseball move both in y and z directions,which are seperately because of the Magnus force and gravity.
+>- If the angular speed is upward,things are different.As is shown in the screenshots of the display,the baseball move in both  y and z directions,which are seperately because of the Magnus force and gravity.
 
 ## Acknowledgement
 >- Thanks for Mr. Cai's direction for using Vpython.
