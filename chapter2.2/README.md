@@ -14,13 +14,14 @@
     
   >- I use Euler method to describe formulas above iterating the process again and again,and initialize x,y,z,v_x,v_y,v_z as lists so that I can draw the y-x curve with matplotlib.
   >- As for its 3-D display,I draw a baseball,two vertical walls and a playground with Vpython.Besides,I add materials to walls and the playground,and draw the trail of the baseball.
-## Source Codes
+
+##Source Codes
 >- The Effect of Backspin on the Trajectory of A Baseball
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus.py)
 >- The 3-D Display of A Spining Baseball
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_AR.py)
    
-## Results#
+##Results
 ###The Comparison of the Trajectory of A Baseball with Different Angular Velocity
 >- y-x Relation with No Spin
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_backspin_0.png)
@@ -28,7 +29,7 @@
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_backspin_1000.png)
 >- y-x Relation with 2000 rmp Spin
    ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_backspin_2000.png)
-### Screenshots of the 3-D Display of A Spining Baseball
+###Screenshots of the 3-D Display of A Spining Baseball
 >- Front View
   ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_frontview.png)
 >- Top View
