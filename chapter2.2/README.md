@@ -16,11 +16,10 @@
   >- As for its 3-D display,I draw a baseball,two vertical walls and a playground with Vpython.Besides,I add materials to walls and the playground,and draw the trail of the baseball.
 
 ##Source Codes
->- The Effect of Backspin on the Trajectory of A Baseball
-   ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus.py)
->- The 3-D Display of A Spining Baseball
-   ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_AR.py)
-   
+###   ![The Effect of Backspin on the Trajectory of A Baseball] (https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus.py)
+###   ![The 3-D Display of A Spining Baseball]  (https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_AR.py)
+  
+  
 ##Results
 ###The Comparison of the Trajectory of A Baseball with Different Angular Velocity
 >- y-x Relation with No Spin
@@ -34,4 +33,11 @@
   ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_frontview.png)
 >- Top View
   ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter2.2/baseball_Magnus_topview.png)
+  
+## Analysis
+>- We can find that with the increase of angular speed the shoot range increases correspondingly.This is because the backspin provides the baseball with upward force,so the baseball can travel for a longer period.
+>- If the angular speed is upward,things are different.As is shown in the screenshots of the display,the baseball move both in y and z directions,which are seperately because of the Magnus force and gravity.
+
+## Acknowledgement
+>- Thanks for Mr. Cai's direction for using Vpython.
   
