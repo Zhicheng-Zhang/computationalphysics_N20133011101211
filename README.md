@@ -1,17 +1,20 @@
 Welcome to My Repository!
 =============================================
->**Homework3**
+>**第三次作业 Homework3**
 >- ![第三次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/homework3)
 
 
->**Homework of Chapter1**
+>**第四次作业 Homework of Chapter1**
 >- ![chapter1第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter1)
 
->**Homework of Chapter1.2**
+>**第五次作业 Homework of Chapter1.2**
 >- ![chapter1第二次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter1.2)
 
->**Homework of Chapter2**
+>**第六次作业 Homework of Chapter2**
 >- ![chapter2作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter2)
+
+>**第七次作业 Homework of Chapter2(2nd)**
+>- ![chapter2第二次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter2.2)
 
 
 
