@@ -1,3 +1,4 @@
-# The Effect of Backspin on Shoot Range of A Baseball & Its 3-D Display
+# The Effect of Backspin of A Baseball's trajectory & 3-D Display
 ##  Abstracts
->- This passage researches the effect of backspin  on the range of a baseball.
+>- Making use of Euler method this passage researches the shoot range of a baseball at different angular velocities and then display the trajectory of the baseball in Vpython environment.
+
