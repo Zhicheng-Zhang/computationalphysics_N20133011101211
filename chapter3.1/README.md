@@ -19,7 +19,7 @@ things are different.The periods of the oscillation are dependent of amplitudes.
 　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_%7Bi%7D&plus;%5Comega_%7Bi&plus;1%7D%5CDelta%20t)</br>
  >- The Main Idea of Euler-Cromer Method is </br>
 　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_%7Bi%7D-%28%5Cfrac%7Bg%7D%7Bl%7D%29%5Ctheta_%7Bi%7D%5CDelta%20t)</br>
-　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_%7Bi%7D&plus;%5Comega_%7Bi%7D%5CDelta%20t)<\br>
+　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_%7Bi%7D&plus;%5Comega_%7Bi%7D%5CDelta%20t)</br>
  >- The Main Idea of Runge-Kutta Method is </br>
 　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Ctheta%5E%7B%27%7D%3D%5Ctheta_%7Bi%7D&plus;%5Cfrac%201%202%20%5Comega_%7Bi%7D%5CDelta%20t)</br>
 　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Comega%5E%7B%27%7D%3D%5Comega_%7Bi%7D-%5Cfrac%201%202%20%5Cfrac%20g%20l%20%5Ctheta_%7Bi%7D%5CDelta%20t)</br>
