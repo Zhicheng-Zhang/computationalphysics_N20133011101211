@@ -57,6 +57,6 @@ We can simulate their motion in Vpython:
 >- The motion of three stars and a planet at the center of the stars can be presented in the following figure:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.png)</br>The regular running of these bodies can be simulated well in Vpython:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.gif)
-　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)
+　　　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)
 
   
