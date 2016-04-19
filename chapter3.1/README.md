@@ -49,7 +49,7 @@ Using 2nd-order Runge-Kutta method to solve the Newtonian equations:</br>
 We can find that they move in this way:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/two-body.gif)</br>
 >- The motion of Sun and Earth can be expressed equivalently in the following figure:</br>
-　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.png)</br>
+　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.png)</br>
 We can simulate their motion in Vpython:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.gif)</br>
 
@@ -57,6 +57,7 @@ We can simulate their motion in Vpython:</br>
 >- The motion of three stars and a planet at the center of the stars can be presented in the following figure:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.png)</br>The regular running of these bodies can be simulated well in Vpython:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.gif)</br>
-　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)
+　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)</br>
+　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder_new.gif)
 
   
