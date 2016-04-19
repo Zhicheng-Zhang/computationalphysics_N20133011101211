@@ -31,5 +31,12 @@ things are different.The periods of the oscillation are dependent of amplitudes.
  >- We can find form the figure that Euler method can't solve the problem well,the amplitude gets larger and larger with time increasing.However,Euler-Cromer method and Runge-Kutta method describe the harmonic well:</br>
        The angle varies periodically with time;and the amplitude,so does energy,remains unchanged as time increases.
 
-
-
+### The Behavior of Anharmonic Oscillations
+　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Period-Amplitude.png)
+>- In this figure the anharmonic oscillation presents an obvious characteristic:
+       As the amplitude increases,the period of the oscillation decreases accordingly.
+>- Refering Yangyao Chen(陈洋遥)'s homework,we can get the analytical formula of period-amplitude relation of this anharmonic oscillation is:</br>
+　　　![](http://latex.codecogs.com/gif.latex?%5Ctau%3DK%28%5Calpha%29%5Csqrt%20%5Cfrac%20%7B2%28%5Calpha&plus;1%29%7D%20k%20%5Ctheta_%7B0%7D%5E%7B%5Cfrac%20%7B1-%5Calpha%7D%202%20%7D)</br>
+So when the power index![](http://latex.codecogs.com/gif.latex?%5Calpha)>1,the period decreases as amplitude increases.
+　    
+  
