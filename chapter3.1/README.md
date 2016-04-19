@@ -38,5 +38,25 @@ things are different.The periods of the oscillation are dependent of amplitudes.
 >- Refering Yangyao Chen(陈洋遥)'s homework,we can get the analytical formula of period-amplitude relation of this anharmonic oscillation is:</br>
 　　　![](http://latex.codecogs.com/gif.latex?%5Ctau%3DK%28%5Calpha%29%5Csqrt%20%5Cfrac%20%7B2%28%5Calpha&plus;1%29%7D%20k%20%5Ctheta_%7B0%7D%5E%7B%5Cfrac%20%7B1-%5Calpha%7D%202%20%7D)</br>
 So when the power index![](http://latex.codecogs.com/gif.latex?%5Calpha)>1,the period decreases as amplitude increases.
-　    
+
+
+## The Celestial Body's Motion & Chaotic
+### Two-body Motion
+>- The motion of two planet whose mass are the same with different initial velocity is presented in the following figure:</br>
+　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/two-body_def.png)</br>
+Using 2nd-order Runge-Kutta method to solve the Newtonian equations:</br>
+              ![](http://latex.codecogs.com/gif.latex?F%3D%5Cfrac%20%7BGM_%7B1%7DM_%7B2%7D%7D%7Br%5E%7B2%7D%7D)</br>
+We can find that they move in this way:</br>
+              ![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/two-body.gif)</br>
+>- The motion of Sun and Earth can be expressed equivalently in the following figure:</br>
+　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.png)</br>
+We can simulate their motion in Vpython:
+　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.gif)</br>
+
+### Three-body Motion
+>- The motion of three stars and a planet at the center of the stars can be presented in the following figure:</br>
+　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.png)</br>The regular running of these bodies can be simulated well in Vpython:</br>
+　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.gif)
+　　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)
+
   
