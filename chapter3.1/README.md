@@ -63,4 +63,4 @@ We can simulate their motion in Vpython:</br>
 ##Acknowledgements & References  
 >- [1] Computational Physics (2nd edition)；Nicholas J. Giordano, Hisao Nakanishi</br> 
 >- [2]J.B. Marion and S.T.Thornton,1995,Classical Dynamics of Particles and Systems</br>
->- [3]I learned how to orgnize my figures,fomulas,and gifs from Shixing Wang(王世兴) and Yangyao Chen(陈洋遥)，and I learned how to transfer videos in MP4 format into GIF format from Feng Chen(陈锋).Thanks a lot!
+>- [3]I learned how to organize my figures,fomulas,and gifs from Shixing Wang(王世兴) and Yangyao Chen(陈洋遥)，and I learned how to transfer videos in MP4 format into GIF format from Feng Chen(陈锋).Thanks a lot!
