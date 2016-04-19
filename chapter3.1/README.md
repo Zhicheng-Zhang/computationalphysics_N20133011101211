@@ -10,6 +10,20 @@ In which the frequency is</br>
 　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5COmega%3D%5Csqrt%7B%5Cfrac%7Bg%7D%7Bl%7D%7D)</br>Correspondingly,the period is</br>
 　　　　　　　　![](http://latex.codecogs.com/gif.latex?T%3D2%5Cpi%5Csqrt%7B%5Cfrac%7Bl%7D%7Bg%7D%7D)</br>which is independent of the amplitude,say,![](http://latex.codecogs.com/gif.latex?x_%7B0%7D).</br>
 >- However,for following equation</br> 　　　　　　　　![](http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Cmathrm%7Bd%5E%7B2%7D%7D%20x%7D%7B%5Cmathrm%7Bd%7D%20t%5E%7B2%7D%7D%3D-kx%5E%7B%5Calpha%20%7D)  　　![](http://latex.codecogs.com/gif.latex?%5Calpha%3E1) </br>
-things are different.
+things are different.The periods of the oscillation are dependent of amplitudes.And I'm trying to research this dependency.
+
+## Three Algorithms to Solving the Equation
+###Euler Method
+>- The basic idea of Euler method is <\br>
+ ![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_%7Bi%7D-%28%5Cfrac%7Bg%7D%7Bl%7D%29%5Ctheta_%7Bi%7D%5CDelta%20t)<\br>
+  ![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_%7Bi%7D&plus;%5Comega_%7Bi&plus;1%7D%5CDelta%20t)<\br>
+ >- The Main Idea of Euler-Cromer Method is </br>
+ ![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_%7Bi%7D-%28%5Cfrac%7Bg%7D%7Bl%7D%29%5Ctheta_%7Bi%7D%5CDelta%20t)<\br>
+  ![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_%7Bi%7D&plus;%5Comega_%7Bi%7D%5CDelta%20t)<\br>
+ >- The Main Idea of Runge-Kutta Method is </br>
+  ![](http://latex.codecogs.com/gif.latex?%5Ctheta%5E%7B%27%7D%3D%5Ctheta_%7Bi%7D&plus;%5Cfrac%201%202%20%5Comega_%7Bi%7D%5CDelta%20t)<\br>
+  ![](http://latex.codecogs.com/gif.latex?%5Comega%5E%7B%27%7D%3D%5Comega_%7Bi%7D-%5Cfrac%201%202%20%5Cfrac%20g%20l%20%5Ctheta_%7Bi%7D%5CDelta%20t)<\br>
+  ![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_%7Bi%7D&plus;%5Comega%7B%7D%5E%7B%27%7D%5CDelta%20t)<\br>
+  ![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_%7Bi%7D-%5Cfrac%20g%20l%20%5Ctheta%5E%7B%27%7D%5CDelta%20t)<\br>
 
 
