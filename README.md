@@ -18,7 +18,10 @@ Welcome to My Repository!
 
 >**第八次作业 Homework of Chapter3(1st)**
 >- ![chapter3第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter3.1)
->- ![chapter3第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)
+
+>**第九次作业 homework of Chapter3(2nd)**
+>-![chapter3第一次作业](https://www.zybuluo.com/zhicheng-zhang1995/note/347040)
+
 
 
 
