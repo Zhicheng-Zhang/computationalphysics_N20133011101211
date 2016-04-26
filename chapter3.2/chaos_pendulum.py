@@ -115,7 +115,6 @@ def plot_fractal(rang):
     show()        
 
 
-diaplay_pendulum_3D(1.2)
 
 
 
