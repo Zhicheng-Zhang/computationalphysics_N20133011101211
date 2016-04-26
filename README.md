@@ -20,7 +20,7 @@ Welcome to My Repository!
 >- ![chapter3第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter3.1)
 
 >**第九次作业 homework of Chapter3(2nd)**
->-  [chapter3第二次作业](https://www.zybuluo.com/mdeditor#347040)
+>-  [chapter3第二次作业](https://www.zybuluo.com/zhicheng-zhang1995/note/347040)
 >-  [源代码](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.2/chaos_pendulum.py)
 
 
