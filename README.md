@@ -23,6 +23,7 @@ Welcome to My Repository!
 >-  [chapter3第二次作业](https://www.zybuluo.com/zhicheng-zhang1995/note/347040)
 >-  [源代码](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.2/chaos_pendulum.py)
 
-
+>**第十次作业 Homework of Chapter3(３rd)**
+>- ![chapter3第三次作业](https://www.zybuluo.com/zhicheng-zhang1995/note/363368)
 
 
