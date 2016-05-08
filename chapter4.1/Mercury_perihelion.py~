@@ -15,7 +15,7 @@ def __init__(self,GMs,step,alpha):
     self.vz=[0]
     self.alpha=alpha
 
-def running(self,time):#define function that describes the motion of Mercury
+def running(self,time):
     for i in range(int(time/self.dt)):
         r=sqrt(self.x[-1]**2+self.y[-1]**2+self.z[-1]**2)
         vx_med=self.vx[-1]-self.GMs*(1+self.alpha/(r**2))*self.dt*self.x[-1]/(r**3)
@@ -28,7 +28,7 @@ def running(self,time):#define function that describes the motion of Mercury
         y_med=self.y[-1]+self.vy[-1]*self.dt
         self.y.append(y_med)
         self.z.append(0)
-    return (self.x,self.y)#return the position of Mercury 
+    return (self.x,self.y)
 
 def visual_mercury(self):
     sun=sphere(pos=(0,0,0),radius=0.05,color=color.red)
@@ -37,7 +37,7 @@ def visual_mercury(self):
     mercu.trail=curve(color=color.yellow)
     for i in range(len(self.x)):
         rate(2000)
-        mercu.pos.x=self.x[i]#in Vpython,make the ball's position the result of function"running"
+        mercu.pos.x=self.x[i]
         mercu.pos.y=self.y[i]
         mercu.pos.z=self.z[i]
         mercu.velocity.x=self.vx[i]
@@ -50,18 +50,18 @@ def visual_mercury(self):
             r_jm=sqrt(self.x[j-1]**2+self.y[j-1]**2+self.z[j-1]**2)
             r_j=sqrt(self.x[j]**2+self.y[j]**2+self.z[j]**2)
             r_jp=sqrt(self.x[j+1]**2+self.y[j+1]**2+self.z[j+1]**2)
-            if r_j-r_jm>0 and r_jp-r_j<0:#to get the aphelion of the orbit
+            if r_j-r_jm>0 and r_jp-r_j<0:
                 peri_x.append(self.x[j]),peri_y.append(self.y[j])
     return (peri_x,peri_y)
 
     
-def plot_mercury():#define the function plotting the orbit with matplotlib
+def plot_mercury():
     mercury=planet()
     x=[];y=[]
     xp=[];yp=[]
     __init__(mercury,4*pi**2,0.0001,0.01)
     lis=running(mercury,0.243555*1)
-    lisp=visual_mercury(mercury)#call the function "running" and get the position of Mercury
+    lisp=visual_mercury(mercury)
     x.extend(lis[0]);y.extend(lis[1])
     xp.extend(lisp[0]);yp.extend(lisp[1])
     plot(x,y,'k-')
@@ -71,7 +71,7 @@ def plot_mercury():#define the function plotting the orbit with matplotlib
     scatter(0,0)
     show()
     
-def plot_peri(times):#plot the relation between precession angle and time
+def plot_peri(times):
     mercury=planet()
     x=[];y=[]
     __init__(mercury,4*pi**2,0.0001,0.0008)
@@ -102,8 +102,8 @@ def plot_peri(times):#plot the relation between precession angle and time
     xlim(0,2.5);ylim(0,25)
     legend(loc='upper left')
     show()
-def plot_ecc():#plot the relation between precession rate and eccentricity
-    e=[0,0.0111,0.0781,0.1428,0.206,0.2651,0.3227,0.3780]#I get these values by running function 'plot_peri' with different initial velocities 8 times
+def plot_ecc():
+    e=[0,0.0111,0.0781,0.1428,0.206,0.2651,0.3227,0.3780]
     p=[4.2467,4.3072,5.3490,6.8066,8.6338,10.7768,13.7120,17.2392]
     plot(e,p,'k-',label=r'$\alpha=0.0008$')
     scatter(e,p,color='red')
@@ -111,5 +111,5 @@ def plot_ecc():#plot the relation between precession rate and eccentricity
     title('precession rate versus eccentricity')
     legend(loc='upper left')
     show()
-plot_mercury()#call the function you want to run 
+plot_mercury()
 
