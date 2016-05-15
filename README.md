@@ -28,3 +28,6 @@ Welcome to My Repository!
 
 >**第十一次作业 Homework of Chapter4(1st)**
 >- [chapter4第一次作业](https://www.zybuluo.com/zhicheng-zhang1995/note/370155)
+
+>**第十二次作业 Homework of Chapter4(2nd)**
+>- [chapter4第二次作业](https://www.zybuluo.com/zhicheng-zhang1995/note/378540)
