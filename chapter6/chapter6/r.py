@@ -1,12 +1,12 @@
 from math import*
 from matplotlib.pyplot import*
 
-r=1.2
+r=1.2 # you can change the value of r to find the effect of r on the wave evolution
 y1=[]
 for i in range(500):
     y1.append(0.01*i)
 for i in range(500,1000):
-    y1.append(10-0.01*i)
+    y1.append(10-0.01*i)#this represents a triangular wave packet;you can change the form of initial wave packet as you like
 
     
 
