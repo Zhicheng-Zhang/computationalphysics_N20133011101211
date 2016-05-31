@@ -34,3 +34,6 @@ Welcome to My Repository!
 
 >**第十三次作业 Homework of Chapter5**
 >- [chapter5作业](https://www.zybuluo.com/zhicheng-zhang1995/note/385406)
+
+>**第十四次作业 Homework of Chapter６**
+>- [chapter６作业](https://www.zybuluo.com/zhicheng-zhang1995/note/394726)
