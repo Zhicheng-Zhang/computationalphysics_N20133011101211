@@ -4,7 +4,7 @@ from matplotlib.pyplot import*
 
 y1=[]
 for i in range(1000):
-    y1.append(0.1*exp(-(0.03*i-5)**2))
+    y1.append(0.1*exp(-(0.03*i-5)**2)) #this represents a Gaussian wave packet;you can change the form of initial wave packet as you like
 
 
 y2=[]
