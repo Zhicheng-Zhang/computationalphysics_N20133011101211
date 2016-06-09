@@ -51,14 +51,14 @@ We can find that they move in this way:</br>
 >- The motion of Sun and Earth can be expressed equivalently in the following figure:</br>
 　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.png)</br>
 We can simulate their motion in Vpython:</br>
-　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/Sun-Earth.gif)</br>
+　　　　　　![](https://raw.githubusercontent.com/Zhicheng-Zhang/computationalphysics_N20133011101211/master/chapter3.1/sun_earth.gif)</br>
 
 ### Three-body Motion
 >- The motion of three stars and a planet at the center of the stars can be presented in the following figure:</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.png)</br>The regular running of these bodies can be simulated well in Vpython:</br>
-　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_constant.gif)</br>
+　　　　　　![](https://raw.githubusercontent.com/Zhicheng-Zhang/computationalphysics_N20133011101211/master/chapter3.1/three_constant.gif)</br>
 　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder.gif)</br>
-　　　　　　![](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/chapter3.1/three-body_disorder_new.gif)
+　　　　　　![](https://raw.githubusercontent.com/Zhicheng-Zhang/computationalphysics_N20133011101211/master/chapter3.1/three_disorder.gif)
 
 ##Acknowledgements & References  
 >- [1] Computational Physics (2nd edition)；Nicholas J. Giordano, Hisao Nakanishi</br> 
