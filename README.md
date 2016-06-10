@@ -1,5 +1,7 @@
 Welcome to My Repository!
 =============================================
+物基一班　张志城　2013301110121
+
 >**第一次作业 Homework１**
 >- ![第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/homework1/README.md)
 
@@ -42,3 +44,6 @@ Welcome to My Repository!
 
 >**第十四次作业 Homework of Chapter６**
 >- [chapter６作业](https://www.zybuluo.com/zhicheng-zhang1995/note/394726)
+
+>**期末论文**
+>- [Ising Model](https://www.zybuluo.com/zhicheng-zhang1995/note/394726)
