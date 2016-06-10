@@ -3,6 +3,9 @@ Welcome to My Repository!
 >**第一次作业 Homework１**
 >- ![第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/homework1/README.md)
 
+>**第二次作业 Homework２**
+>- ![第二次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/homework2/README.md)
+
 >**第三次作业 Homework3**
 >- ![第三次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/homework3)
 
