@@ -1,6 +1,6 @@
 Welcome to My Repository!
 =============================================
-物基一班　张志城　2013301110121
+　　　　物基一班　张志城　2013301110121
 
 >**第一次作业 Homework１**
 >- ![第一次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/blob/master/homework1/README.md)
