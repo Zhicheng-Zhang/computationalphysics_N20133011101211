@@ -11,7 +11,7 @@ Welcome to My Repository!
 >- ![chapter1第二次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter1.2)
 
 >**第六次作业 Homework of Chapter2**
->- ![chapter2作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter2)
+>- ![chapter2作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter2.1)
 
 >**第七次作业 Homework of Chapter2(2nd)**
 >- ![chapter2第二次作业](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211/tree/master/chapter2.2)
