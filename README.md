@@ -46,4 +46,4 @@ Welcome to My Repository!
 >- [chapter６作业](https://www.zybuluo.com/zhicheng-zhang1995/note/394726)
 
 >**期末论文**
->- [Ising Model](https://www.zybuluo.com/zhicheng-zhang1995/note/394726)
+>- [Ising Model](https://www.zybuluo.com/zhicheng-zhang1995/note/404867)
